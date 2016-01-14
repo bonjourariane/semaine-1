@@ -1,6 +1,6 @@
 # Ariane
 Je suis "Ariane"  
-Je suis une récente ancienne éducatrice, je n'ai pas d'expérience dans le domaine, pas encore.
+Je suis une récente ancienne éducatrice, je n'ai pas d'expérience dans le domaine du developpement web, pas encore.
 
 #Expériences professionnelles  
 * apprentissage sur codecademy  
